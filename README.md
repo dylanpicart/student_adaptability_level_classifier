@@ -18,7 +18,7 @@ This project hypothesizes that a student's age, financial conditions, access to 
 
 ## EDA Insights
 
-Our EDA revealed several trends related to student adaptability levels. For detailed insights, please refer to the demographic & technology context sections above.
+Our EDA revealed several trends related to student adaptability levels. For detailed insights, please refer to the demographic & technology context sections in the notebook.
 
 ## Machine Learning Models
 
